@@ -1,3 +1,1 @@
-Kapitan Bomba: Tępe chuje.
-Janusz: Kurwa, panie kapitanie, dlaczego pan na nas tak mówi?
-Kapitan Bomba: (spluwa) Bo jesteście tępymi chujami.
+Hello World!
